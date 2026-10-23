@@ -8,4 +8,8 @@
 - [SparkFun 16x2 SerLCD - RGB Text (Qwiic)](https://www.sparkfun.com/sparkfun-16x2-serlcd-rgb-text-qwiic.html)
 - [SparkFun Qwiic Motor Driver](https://www.sparkfun.com/sparkfun-qwiic-motor-driver.html)
 
-## 
+## Demo Video
+
+
+[Demo Video](https://www.youtube.com/watch?v=dfv5TdrNmLY)
+
